@@ -1,0 +1,8 @@
+metric,value,note
+n_docs,10985.0,Total number of documents in the analyzed corpus.
+n_docs_truncated,313.0,Documents whose total token count (RoBERTa) exceeds 512 — document level.
+pct_docs_truncated,2.85,% of documents affected by truncation — document level.
+total_words_corpus,1595558.0,Total words in the corpus (tokenizer's token->word alignment).
+total_words_lost,82998.0,"Total words falling beyond the 512-token cutoff, summed across all documents."
+pct_words_lost_corpus,5.2,% of the CORPUS's total words lost to truncation — word level (the real magnitude of the loss).
+mean_pct_words_lost_among_truncated,27.31,Mean % of words lost WITHIN the truncated documents (not the whole corpus).

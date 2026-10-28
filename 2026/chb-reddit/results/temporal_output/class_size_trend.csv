@@ -1,0 +1,4 @@
+classe_label,pct_min,pct_max,pct_range,pct_first_period,pct_last_period,spearman_rho,spearman_p,significant_p<0.05
+Class 1 – Teaching Profession & Educational Context,34.27,53.92,19.65,41.35,45.31,0.2028,0.5273023541661079,False
+Class 2 – Coursework & Assessment,22.27,36.27,14.0,29.33,24.83,-0.0699,0.8290236405313092,False
+"Class 3 – Writing, AI Tools & Detection",23.43,31.97,8.55,29.33,29.86,0.0629,0.8459309212287789,False

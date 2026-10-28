@@ -1,0 +1,4 @@
+classe_label,anger,disgust,fear,joy,neutral,sadness,surprise
+Class 1 – Teaching Profession & Educational Context,0.1278,0.161,0.0702,0.0342,0.4548,0.0635,0.0884
+Class 2 – Coursework & Assessment,0.1035,0.1266,0.0326,0.0281,0.5655,0.0486,0.0951
+"Class 3 – Writing, AI Tools & Detection",0.0893,0.1375,0.034,0.0235,0.6018,0.0326,0.0813

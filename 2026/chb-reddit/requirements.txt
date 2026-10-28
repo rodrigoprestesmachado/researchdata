@@ -1,0 +1,21 @@
+# Core analysis (roberta_emotions.py, nrclex_emotions.py, split_by_class.py)
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+
+# Emotion model (roberta_emotions.py)
+torch
+transformers
+
+# Per-HDC-class statistics: ANOVA + Tukey HSD (roberta_emotions.py)
+scipy
+statsmodels
+
+# Alternative emotion lexicon (nrclex_emotions.py)
+nrclex
+
+# Data collection (reddit_playwright_scraper.py)
+playwright
+langdetect

@@ -1,0 +1,7 @@
+classe_label,metric,n,spearman_rho,spearman_p,significant_p<0.05
+Class 1 – Teaching Profession & Educational Context,roberta,4864,-0.0133,0.35461012805724396,False
+Class 2 – Coursework & Assessment,roberta,3010,-0.0299,0.10136658153559117,False
+"Class 3 – Writing, AI Tools & Detection",roberta,3069,-0.0488,0.006805648959623179,True
+Class 1 – Teaching Profession & Educational Context,nrclex,4864,-0.0139,0.3337217799779982,False
+Class 2 – Coursework & Assessment,nrclex,3010,-0.0356,0.05062729781905438,False
+"Class 3 – Writing, AI Tools & Detection",nrclex,3069,-0.0125,0.4873520288937065,False

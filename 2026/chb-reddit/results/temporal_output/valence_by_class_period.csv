@@ -1,0 +1,37 @@
+period,period_label,classe_label,n_roberta,mean_roberta_valence,n_nrclex,mean_nrclex_valence
+202507,2025-07,Class 1 – Teaching Profession & Educational Context,172,-0.3735,172,0.1783
+202508,2025-08,Class 1 – Teaching Profession & Educational Context,343,-0.3633,343,0.1694
+202509,2025-09,Class 1 – Teaching Profession & Educational Context,289,-0.3702,289,0.1592
+202510,2025-10,Class 1 – Teaching Profession & Educational Context,488,-0.3743,488,0.1647
+202511,2025-11,Class 1 – Teaching Profession & Educational Context,488,-0.4116,488,0.1545
+202512,2025-12,Class 1 – Teaching Profession & Educational Context,292,-0.429,292,0.1599
+202601,2026-01,Class 1 – Teaching Profession & Educational Context,322,-0.375,322,0.1749
+202602,2026-02,Class 1 – Teaching Profession & Educational Context,319,-0.3919,319,0.1581
+202603,2026-03,Class 1 – Teaching Profession & Educational Context,491,-0.3982,491,0.166
+202604,2026-04,Class 1 – Teaching Profession & Educational Context,567,-0.3731,567,0.1666
+202605,2026-05,Class 1 – Teaching Profession & Educational Context,697,-0.4042,697,0.1497
+202606,2026-06,Class 1 – Teaching Profession & Educational Context,396,-0.377,396,0.1624
+202507,2025-07,Class 2 – Coursework & Assessment,122,-0.2685,122,0.1984
+202508,2025-08,Class 2 – Coursework & Assessment,190,-0.21,190,0.2028
+202509,2025-09,Class 2 – Coursework & Assessment,176,-0.2779,176,0.1693
+202510,2025-10,Class 2 – Coursework & Assessment,205,-0.2651,205,0.1833
+202511,2025-11,Class 2 – Coursework & Assessment,391,-0.2899,391,0.1644
+202512,2025-12,Class 2 – Coursework & Assessment,309,-0.2916,309,0.1395
+202601,2026-01,Class 2 – Coursework & Assessment,159,-0.245,159,0.1855
+202602,2026-02,Class 2 – Coursework & Assessment,181,-0.3285,181,0.1561
+202603,2026-03,Class 2 – Coursework & Assessment,228,-0.3106,228,0.1557
+202604,2026-04,Class 2 – Coursework & Assessment,370,-0.3048,370,0.1682
+202605,2026-05,Class 2 – Coursework & Assessment,462,-0.3101,462,0.1458
+202606,2026-06,Class 2 – Coursework & Assessment,217,-0.2214,217,0.1896
+202507,2025-07,"Class 3 – Writing, AI Tools & Detection",122,-0.2154,122,0.1786
+202508,2025-08,"Class 3 – Writing, AI Tools & Detection",187,-0.2476,187,0.1472
+202509,2025-09,"Class 3 – Writing, AI Tools & Detection",203,-0.2518,203,0.14
+202510,2025-10,"Class 3 – Writing, AI Tools & Detection",212,-0.2663,212,0.1744
+202511,2025-11,"Class 3 – Writing, AI Tools & Detection",381,-0.2691,381,0.174
+202512,2025-12,"Class 3 – Writing, AI Tools & Detection",251,-0.2851,251,0.1831
+202601,2026-01,"Class 3 – Writing, AI Tools & Detection",179,-0.2213,179,0.1629
+202602,2026-02,"Class 3 – Writing, AI Tools & Detection",235,-0.3093,235,0.1466
+202603,2026-03,"Class 3 – Writing, AI Tools & Detection",305,-0.2598,305,0.1755
+202604,2026-04,"Class 3 – Writing, AI Tools & Detection",324,-0.2428,324,0.1419
+202605,2026-05,"Class 3 – Writing, AI Tools & Detection",409,-0.3005,409,0.1341
+202606,2026-06,"Class 3 – Writing, AI Tools & Detection",261,-0.3102,261,0.1877

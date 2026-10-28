@@ -1,0 +1,2 @@
+n_periods,n_classes,n_docs,chi2,dof,p_value,significant_p<0.05,cramers_v
+12,3,10943,139.1293,22,5.2336786591353535e-19,True,0.0797

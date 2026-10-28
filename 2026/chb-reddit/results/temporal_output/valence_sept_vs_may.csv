@@ -1,0 +1,7 @@
+classe_label,metric,n_sept_2025,n_may_2026,mean_sept_2025,mean_may_2026,mean_diff_may_minus_sept,more_negative_valence_in,t_stat,t_df,t_p_value,u_stat,u_p_value,significant_p<0.05_either_test
+Class 1 – Teaching Profession & Educational Context,roberta,289,697,-0.3702,-0.4042,-0.034,May/2026,-1.2203,562.14,0.22286540233737945,94834.0,0.14843554120570152,False
+Class 2 – Coursework & Assessment,roberta,176,462,-0.2779,-0.3101,-0.0323,May/2026,-1.0237,334.17,0.3067033270663882,38584.0,0.319485850630027,False
+"Class 3 – Writing, AI Tools & Detection",roberta,203,409,-0.2518,-0.3005,-0.0487,May/2026,-1.5858,395.93,0.11357718281776662,37641.0,0.06009143501338856,False
+Class 1 – Teaching Profession & Educational Context,nrclex,289,697,0.1592,0.1497,-0.0095,May/2026,-0.6512,489.94,0.5152542908271711,98627.5,0.6077215133438569,False
+Class 2 – Coursework & Assessment,nrclex,176,462,0.1693,0.1458,-0.0235,May/2026,-1.1528,301.5,0.2499164821843574,37985.0,0.19897861446708232,False
+"Class 3 – Writing, AI Tools & Detection",nrclex,203,409,0.14,0.1341,-0.0059,May/2026,-0.2874,371.23,0.7739427714056268,41462.0,0.9802148943200382,False
